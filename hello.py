@@ -4,6 +4,6 @@ def add(x, y):
     return x + y
 
 
-print(add(6, 1))
+print(add(8, 1))
 
 
